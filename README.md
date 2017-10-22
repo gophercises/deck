@@ -1,4 +1,4 @@
-# Exercise #10: Deck of Cards
+# Exercise #9: Deck of Cards
 
 [![topic: sorting](https://img.shields.io/badge/topic-sorting-green.svg?style=flat-square)](https://github.com/search?q=topic%3Asorting+org%3Agophercises&type=Repositories)
 [![topic: searching](https://img.shields.io/badge/topic-searching-green.svg?style=flat-square)](https://github.com/search?q=topic%3Asearching+org%3Agophercises&type=Repositories)
