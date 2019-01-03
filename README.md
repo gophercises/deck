@@ -13,7 +13,7 @@ In this exercise we are going to create a package that can be used to build deck
 
 Along the way we will also learn a little bit about constants, iota, and other aspects of using Go.
 
-*NOTE: We will be using this package in the next two Gophercises exercises, so if you opt to write it on your own you may want to work on at least the next exercise before watching the videos. That will help you udnerstand how this package will be used and allow you to design a much better API.*
+*NOTE: We will be using this package in the next two Gophercises exercises, so if you opt to write it on your own you may want to work on at least the next exercise before watching the videos. That will help you understand how this package will be used and allow you to design a much better API.*
 
 To start, create a package named `deck`, and in it create a type named `Card` that will be exported, and is used to represent a playing card. Try not to add any game-specific logic to the `Card` type and instead focus on attributes that are true of a card regardless of the game you are playing. For instance, an "ace of hearts" could be represented as a card with a numeric value of 1, and a suit of hearts, but we want to avoid giving it a specific score value as that can change from game to game.
 
